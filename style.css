@@ -1,0 +1,10 @@
+body{
+	font-family: 'Oxygen';
+	letter-spacing: 3px;
+	align-items: center;
+	text-align: center;
+	font-size: 1.3em;
+	background: linear-gradient(to right, #7ad5a5, #cda6df);
+	height: 100%;
+	margin: 0 auto;
+}
